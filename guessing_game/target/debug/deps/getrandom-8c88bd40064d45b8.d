@@ -1,0 +1,11 @@
+C:\Users\jonekeat\OneDrive\Documents\Rust Projects\rust-playground\guessing_game\target\debug\deps\getrandom-8c88bd40064d45b8.rmeta: C:\Users\jonekeat\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.8\src\lib.rs C:\Users\jonekeat\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.8\src\error.rs C:\Users\jonekeat\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.8\src\util.rs C:\Users\jonekeat\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.8\src\error_impls.rs C:\Users\jonekeat\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.8\src\windows.rs
+
+C:\Users\jonekeat\OneDrive\Documents\Rust Projects\rust-playground\guessing_game\target\debug\deps\libgetrandom-8c88bd40064d45b8.rlib: C:\Users\jonekeat\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.8\src\lib.rs C:\Users\jonekeat\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.8\src\error.rs C:\Users\jonekeat\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.8\src\util.rs C:\Users\jonekeat\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.8\src\error_impls.rs C:\Users\jonekeat\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.8\src\windows.rs
+
+C:\Users\jonekeat\OneDrive\Documents\Rust Projects\rust-playground\guessing_game\target\debug\deps\getrandom-8c88bd40064d45b8.d: C:\Users\jonekeat\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.8\src\lib.rs C:\Users\jonekeat\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.8\src\error.rs C:\Users\jonekeat\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.8\src\util.rs C:\Users\jonekeat\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.8\src\error_impls.rs C:\Users\jonekeat\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.8\src\windows.rs
+
+C:\Users\jonekeat\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.8\src\lib.rs:
+C:\Users\jonekeat\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.8\src\error.rs:
+C:\Users\jonekeat\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.8\src\util.rs:
+C:\Users\jonekeat\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.8\src\error_impls.rs:
+C:\Users\jonekeat\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.8\src\windows.rs:
