@@ -1,2 +1,5 @@
 # ignore documentation in github language stats
 **/doc/** linguist-documentation
+
+# ignore generated files in /target
+**/target linguist-generated
