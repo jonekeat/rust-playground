@@ -1,2 +1,2 @@
 # ignore documentation in github language stats
-**/doc linguist-documentation
+**/doc/** linguist-documentation
